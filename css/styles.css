@@ -1,0 +1,80 @@
+h1{
+  font-family: 'Sacramento', cursive;
+font-size: 3rem;
+position: absolute;
+left: 40%;
+color: #ff8303;
+}
+body{
+  background-color: #f4eee8;
+}
+.top{
+  padding-left: 30%;
+
+}
+.abt{
+position: relative;
+left: 170px;
+width: 100px;
+}
+.form{
+  border: solid 10px;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  background-image: url("https://media4.giphy.com/media/RrU8f9lImvJja/200.webp?cid=ecf05e47zl17tags6uieymyggpmi5xz9o300sqowp9jzc3xc&rid=200.webp&ct=g");
+  position: absolute;
+  left:40%;
+  margin-top: 20%;
+  color: red;
+  font-size: 20px;
+
+}
+
+.ss{
+  position: relative;
+  width: 50%;
+  margin-bottom: 30%;
+  margin-left: 40px;
+  float: right;
+
+}
+
+.head{
+margin-left: 50px;
+font-size: 40px;
+}
+.h{
+  margin-bottom: 200px;
+}
+.list{
+margin: 100px auto 40% 40%;
+color: red;
+font-size: 20px;
+padding-right: 40%;
+}
+.ap{
+  width: 50%;
+  padding-bottom: 100%;
+  float: left;
+}
+.app{
+margin-top: 60%;
+margin-left: 50px;
+font-size: 100%;
+}
+.btn{
+  
+}
+
+.h2{
+
+}
+#id{
+  margin-top: 20px;
+
+}
+s
+.img{
+
+}
